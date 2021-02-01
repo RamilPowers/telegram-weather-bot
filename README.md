@@ -1,4 +1,4 @@
-# Weather bot [@weather_bot](t.me/Weather_Sadykov_Bot)
+# Weather bot [@weather_bot](https://t.me/Weather_Sadykov_Bot)
 #### This bot shows the weather anywhere in the world at the moment.
 
 Just enter:  
